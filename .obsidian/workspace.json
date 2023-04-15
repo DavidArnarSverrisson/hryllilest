@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "fcd4a6655c64f41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d2679328035e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc3bb3a630ffeb7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebdec4414b24a5af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33fa896f8847985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716ba9ff54a37b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "997a35d914f387cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c4769e43bbf85cc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "d4a3c908cc1459c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "32efe5240c6472e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18aed99d6b5ef5e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9a888879110b2dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7455e25676b73f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b9eca9addc97ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "716ba9ff54a37b95",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Sedefkar Mannslíkið/Brot 3 - Trieste..md",
+    "Trieste/Trieste.md",
+    "London/Dr. Julius Arthur Smith.md",
+    "London/Ódýrt hótel sunnan við Thames.md",
+    "Tyrkir/Tyrkir.md",
+    "London/Mr. Mehmet Makryat.md",
+    "Sofia/Sofia.md",
+    "London/Antík-Leikfangaverslun.md",
+    "London/Mr. Henry Stanley.md",
+    "London/Heimili J.A. Smith.md",
+    "London/London.md",
+    "Lausanne/Lausanne.md",
+    "Glósur Beddows.md",
+    "Lausanne/Hálf-Átta Klúbbur.md",
+    "Lausanne/Duc Floriasis.md",
+    "Trieste/Safnið í Trieste.md",
+    "Trieste/Johann Winckelmann.md",
+    "Lausanne/Edgar Wellington.md",
+    "Ýmsir Gripir/Bréf.md",
+    "Lausanne/Wellington 2.md",
+    "Austurlandahraðlestin/Tyrkneskur Farþegi.md",
+    "Lausanne/Uppstopparastofa.md",
+    "Sedefkar Mannslíkið/Sedefkar Mannslíkið.md",
+    "London/Beddows.md",
+    "Ýmsir Gripir/Glósur Beddows.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Sofia",
+    "Belgrað",
+    "Konstantínópel",
+    "Ljubliana",
+    "Trieste",
+    "Feneyjar",
+    "Tyrkir",
+    "Rannsakendur",
+    "Ýmsir Gripir",
+    "Mílan"
+  ]
+}

@@ -1,0 +1,1 @@
+Læknisfjöskyldan sem bjó hjá [[Brot 1 - París. Vinstri handleggur]] hafði visnaða vinstri handleggi.

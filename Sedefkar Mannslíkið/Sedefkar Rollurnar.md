@@ -1,0 +1,1 @@
+Lýsa [[Eyðilegging]] [[Sedefkar Mannslíkið]].

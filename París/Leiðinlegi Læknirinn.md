@@ -1,0 +1,1 @@
+Tekur við [[Geðveikrahælið Charenton|Geðveikrahælinu]] eftir að [[Góði Læknirinn]] er drepinn.
