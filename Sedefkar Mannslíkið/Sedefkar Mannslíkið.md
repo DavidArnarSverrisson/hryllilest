@@ -1,4 +1,6 @@
 Illur dulspekilegur forngripur. 
+[[Dr. Julius Arthur Smith]] eltir. Uppspretta illsku, hlutum dreift um Evrópu.
+[[Tyrkneskir Brjálæðingar]] eru að eltast við styttuna einnig.
 
 Kemur frá [[Konstantínópel]] upphaflega.
 

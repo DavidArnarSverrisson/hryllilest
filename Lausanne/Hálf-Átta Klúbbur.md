@@ -1,2 +1,2 @@
-[[Duc Floriasis]]
+[[Blómadúx - Duc Jean Floresa]]
 [[Edgar Wellington]]

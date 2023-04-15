@@ -1,3 +1,3 @@
 Farþegar í [[Austurlandahraðlest]].
-Hr. Herring þjónaði í Indlandi og S-Afríku.
+Hr. Andre Herring þjónaði í her breska heimsveldisins í Indlandi og S-Afríku.
 Eru á eftirlaunum.
