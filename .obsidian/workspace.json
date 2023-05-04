@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc3bb3a630ffeb7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "París/Poissy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f64889c65dcfef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Austurlandahraðlestin/Laura Campbell-Barnes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4fd94520a15a9997",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lausanne/Blómadúx - Duc Jean Floresa.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 340.5
   },
   "right": {
     "id": "d4a3c908cc1459c1",
@@ -163,8 +142,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fd94520a15a9997",
+  "active": "716ba9ff54a37b95",
   "lastOpenFiles": [
+    "Lausanne/Untitled.canvas",
+    "Untitled.canvas",
+    "Lausanne/Edgar Wellington.md",
+    "Lausanne/Blómadúx - Duc Jean Floresa.md",
+    "Ýmsir Gripir/Astralprojektion-sprautulyf.md",
+    "Lausanne/Drauma-Lausanne.md",
+    "Ýmsir Gripir/Bréf Edgars Wellington til Poissy.md",
+    "París/Poissy.md",
+    "Austurlandahraðlestin/Laura Campbell-Barnes.md",
+    "Lausanne/Raoul Malon.md",
+    "Ýmsir Gripir/Dagbók Edgars Wellington.md",
+    "Sedefkar Mannslíkið/Sedefkar Mannslíkið.md",
+    "Lausanne/William Wellington.md",
+    "London/Dr. Julius Arthur Smith.md",
     "Bókasafnið.md",
     "Ýmsir Gripir/Leikfanga-Eimreið..md",
     "London/Mr. Mehmet Makryat.md",
@@ -175,23 +168,9 @@
     "Sedefkar Mannslíkið/Brot 5 - Sofía..md",
     "Sedefkar Mannslíkið/Brot 6 - Maðurinn frá Mílanó.md",
     "Sedefkar Mannslíkið/Brot 2 - Feneyjar.md",
-    "Lausanne/William Wellington.md",
-    "Lausanne/Blómadúx - Duc Jean Floresa.md",
-    "Lausanne/Raoul Malone.md",
-    "Austurlandahraðlestin/Laura Campbell-Barnes.md",
     "Austurlandahraðlestin/Herring hjónin.md",
     "Austurlandahraðlestin/Catarina Cavolaro - Óperusópran.md",
     "Austurlandahraðlestin/Kerim Mahtouk.md",
-    "París/Dr. Christian Laurent.md",
-    "París/Poissy.md",
-    "París/Leiðinlegi Læknirinn Guismart.md",
-    "París/Comte Pfenalik.md",
-    "París/Bókasafnið.md",
-    "London/Mr. Henry Stanley.md",
-    "London/Antík-Leikfangaverslun.md",
-    "London/Beddows.md",
-    "Sedefkar Mannslíkið/Sedefkar Mannslíkið.md",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Sofia",
